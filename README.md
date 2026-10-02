@@ -49,7 +49,9 @@ Here you can find some of the projects I'm building while learning and developin
 ## 📫 Connect With Me
 
 * 🐙 GitHub: [Airton](https://github.com/Airton-Azevedo)
-* 💼 LinkedIn: *Add your LinkedIn profile here*
+* 💼 LinkedIn: (www.linkedin.com/in/airtonazevedo30).
+
+
 
 ---
 
